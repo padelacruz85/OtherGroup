@@ -1,0 +1,12 @@
+com\mycompany\MotorPH\Employee.class
+com\mycompany\MotorPH\Calculation.class
+com\mycompany\MotorPH\SSS.class
+com\mycompany\MotorPH\WithholdingTax.class
+com\mycompany\MotorPH\Philhealth.class
+com\mycompany\MotorPH\MotorPHMain.class
+com\mycompany\MotorPH\Grosswage.class
+com\mycompany\MotorPH\AttendanceRecord.class
+com\mycompany\MotorPH\Netwage.class
+com\mycompany\MotorPH\LatePenalty.class
+com\mycompany\MotorPH\EmployeeModelFromFile.class
+com\mycompany\MotorPH\Pagibig.class
